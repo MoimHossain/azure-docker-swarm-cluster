@@ -1,0 +1,78 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_padsmaster_name": {
+            "value": null
+        },
+        "virtualMachines_padstestworker_name": {
+            "value": null
+        },
+        "virtualMachines_padsworker_name": {
+            "value": null
+        },
+        "virtualMachines_pahost_name": {
+            "value": null
+        },
+        "loadBalancers_pads_lb_name": {
+            "value": null
+        },
+        "networkInterfaces_padsmaster454_name": {
+            "value": null
+        },
+        "networkInterfaces_padstestworker193_name": {
+            "value": null
+        },
+        "networkInterfaces_padsworker942_name": {
+            "value": null
+        },
+        "networkInterfaces_pahost302_name": {
+            "value": null
+        },
+        "networkSecurityGroups_padsmaster_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_padstestworker_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_padsworker_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_pahost_nsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_pada_lb_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_padsmaster_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_padstestworker_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_padsworker_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_pahost_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_pa_docker_swarm_vnet_name": {
+            "value": null
+        },
+        "storageAccounts_padockerswarmdiag533_name": {
+            "value": null
+        },
+        "storageAccounts_padockerswarmdisks474_name": {
+            "value": null
+        },
+        "loadBalancers_pads_lb_id": {
+            "value": null
+        },
+        "loadBalancers_pads_lb_id_1": {
+            "value": null
+        },
+        "loadBalancers_pads_lb_id_2": {
+            "value": null
+        }
+    }
+}
