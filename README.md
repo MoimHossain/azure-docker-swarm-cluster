@@ -1,5 +1,7 @@
 ### Warning
-´´´´Deprecated´´´´
+
+````Deprecated````
+
 This templates are created only for a tech talk, therefore, far from a real-life usecase. For a realistic swarm cluster on Azure, please take a look in [here](https://github.com/MoimHossain/docker-swarm-on-azure).
 
 
